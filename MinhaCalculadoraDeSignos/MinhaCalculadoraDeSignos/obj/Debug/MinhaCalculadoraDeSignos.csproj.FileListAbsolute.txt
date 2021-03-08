@@ -1,0 +1,14 @@
+c:\users\rander carlos\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\MinhaCalculadoraDeSignos.exe.config
+c:\users\rander carlos\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\MinhaCalculadoraDeSignos.exe
+c:\users\rander carlos\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\MinhaCalculadoraDeSignos.pdb
+c:\users\rander carlos\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.csproj.CoreCompileInputs.cache
+c:\users\rander carlos\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.exe
+c:\users\rander carlos\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.pdb
+c:\users\rander carlos\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.csprojResolveAssemblyReference.cache
+C:\Users\Agostin\Desktop\CursosProg\ProximoRepositorio\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\MinhaCalculadoraDeSignos.exe.config
+C:\Users\Agostin\Desktop\CursosProg\ProximoRepositorio\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\MinhaCalculadoraDeSignos.exe
+C:\Users\Agostin\Desktop\CursosProg\ProximoRepositorio\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\MinhaCalculadoraDeSignos.pdb
+C:\Users\Agostin\Desktop\CursosProg\ProximoRepositorio\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.csprojAssemblyReference.cache
+C:\Users\Agostin\Desktop\CursosProg\ProximoRepositorio\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.csproj.CoreCompileInputs.cache
+C:\Users\Agostin\Desktop\CursosProg\ProximoRepositorio\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.exe
+C:\Users\Agostin\Desktop\CursosProg\ProximoRepositorio\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.pdb
