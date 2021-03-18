@@ -1,4 +1,3 @@
-# C#
 
 # Calculadora de signos
 
